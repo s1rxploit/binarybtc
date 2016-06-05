@@ -1,5 +1,5 @@
 <?php
 
-class UserBalance extends Eloquent {
-
+class UserBalance extends Eloquent
+{
 }
