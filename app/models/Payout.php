@@ -1,9 +1,9 @@
 <?php
 
-class Payout {
-
-	public function user()
-	{
-		$this->belongsTo('User');
-	}
+class Payout
+{
+    public function user()
+    {
+        $this->belongsTo('User');
+    }
 }
